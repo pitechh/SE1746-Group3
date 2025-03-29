@@ -1,0 +1,15 @@
+D:\workSpace\Backend\PRN231\OJT_Backend\Infrastructure\bin\Debug\net6.0\Infrastructure.deps.json
+D:\workSpace\Backend\PRN231\OJT_Backend\Infrastructure\bin\Debug\net6.0\Infrastructure.runtimeconfig.json
+D:\workSpace\Backend\PRN231\OJT_Backend\Infrastructure\bin\Debug\net6.0\Infrastructure.dll
+D:\workSpace\Backend\PRN231\OJT_Backend\Infrastructure\bin\Debug\net6.0\Infrastructure.pdb
+D:\workSpace\Backend\PRN231\OJT_Backend\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.AssemblyReference.cache
+D:\workSpace\Backend\PRN231\OJT_Backend\Infrastructure\obj\Debug\net6.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\workSpace\Backend\PRN231\OJT_Backend\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfoInputs.cache
+D:\workSpace\Backend\PRN231\OJT_Backend\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfo.cs
+D:\workSpace\Backend\PRN231\OJT_Backend\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\workSpace\Backend\PRN231\OJT_Backend\Infrastructure\obj\Debug\net6.0\Infrastructure.sourcelink.json
+D:\workSpace\Backend\PRN231\OJT_Backend\Infrastructure\obj\Debug\net6.0\Infrastructure.dll
+D:\workSpace\Backend\PRN231\OJT_Backend\Infrastructure\obj\Debug\net6.0\refint\Infrastructure.dll
+D:\workSpace\Backend\PRN231\OJT_Backend\Infrastructure\obj\Debug\net6.0\Infrastructure.pdb
+D:\workSpace\Backend\PRN231\OJT_Backend\Infrastructure\obj\Debug\net6.0\Infrastructure.genruntimeconfig.cache
+D:\workSpace\Backend\PRN231\OJT_Backend\Infrastructure\obj\Debug\net6.0\ref\Infrastructure.dll
